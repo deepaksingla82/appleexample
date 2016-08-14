@@ -2,8 +2,6 @@ package com.sample.fruits.bean;
 
 public class Apple {
 	
-	 
-	
 	private String color;
 	
 	private float weightInGrams;
